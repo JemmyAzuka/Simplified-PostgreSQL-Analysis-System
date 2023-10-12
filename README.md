@@ -8,19 +8,13 @@ This project focuses on enhancing data analysis capabilities in PostgreSQL, a ro
 ## Features
 Spreadsheet Formula Integration: Select spreadsheet formulas are integrated for advanced data analysis.
 Optimized Performance: Formulas are optimized to ensure fast and efficient execution, even with large datasets.
-User-Friendly Interface: The system offers an intuitive interface for users, accessible through both command line and Python scripting, simplifying the analysis process.
+User-Friendly Interface: The system offers an intuitive interface for users, accessible through Python scripting.
 
 
 ## Supported Formulas
-SUM(): Calculates the sum of a range of values.
 
-AVERAGE(): Computes the average of a range of values.
+["SUM", "VLOOKUP", "IF", "LOOKUP", "MATCH", "CHOOSE", "CONCATENATE", "DATE", "DAYS", "FIND", "INDEX"]
 
-MAX(): Finds the maximum value in a range.
-
-MIN(): Finds the minimum value in a range.
-
-COUNT(): Counts the number of cells in a range containing numerical values.
 
 ## Contribution Guidelines
 Contributions are welcome! If you want to contribute to this project, please follow these guidelines:
